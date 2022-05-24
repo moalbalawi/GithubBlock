@@ -1,0 +1,50 @@
+img.octocat {
+    height: 200px;
+}
+
+
+.container{
+    width: 950px;
+    background-color: rgba(154, 165, 169, 0.756);
+    margin: 0px auto;
+    padding: 20px;
+}
+
+#gbl{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    }
+
+.div1{
+    background-color: rgb(110, 187, 255);
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div2{
+    background-color: rgb(183, 117, 183);
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div3{
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    outline: auto rgba(0, 0, 0, 0.155);
+}
